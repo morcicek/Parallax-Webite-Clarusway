@@ -1,11 +1,9 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-003 : Parallax Website 
+# Parallax Website 
 
-- https://yhekim.github.io/Parallax-Website-for-in-Clarusway/
-
-- https://tender-colden-4f1768.netlify.app/
+- https://morcicek.github.io/Parallax-Webite-Clarusway/
 
 ## Description
 Project aims to create parallax website.
