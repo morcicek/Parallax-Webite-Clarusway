@@ -3,7 +3,7 @@
 
 # Parallax Website 
 
-- https://morcicek.github.io/Parallax-Webite-Clarusway/
+- https://morcicek.github.io/Parallax-Website-Clarusway/
 
 ## Description
 Project aims to create parallax website.
